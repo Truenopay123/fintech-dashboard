@@ -98,6 +98,7 @@ Abre http://localhost:8080 en tu navegador.
 
 ## 📁 Estructura del proyecto
 
+```bash
 fintech-dashboard/
 ├── src/
 │   ├── views/
@@ -117,8 +118,7 @@ fintech-dashboard/
 ├── nginx.conf
 ├── vite.config.js
 └── README.md
-
----
+```
 
 ## 📱 Responsive
 
